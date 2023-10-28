@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About me
-I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests are **Visual Quality Assessment** and **AI in Healthcare**. I aspire to contribute significantly to the academic community, looking forward to joining a PhD program where I can further explore this field.
+Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests are **Visual Quality Assessment** and **AI in Healthcare**. I aspire to contribute significantly to the academic community, looking forward to joining a PhD program where I can further explore this field.
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
@@ -29,36 +29,79 @@ I am a final-year undergraduate at Nanyang Technological University 🇸🇬, ma
 - **Twitter:** [@zhang_erli](https://twitter.com/zhang_erli)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 (CCF-A)!
+- *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023 (CCF-A)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/VQAssessment/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We construct the Q-Bench, a benchmark to examine the progress of MLLMs on low-level visual abilities. Anticipating these large foundation models to be general-purpose intelligence that can ultimately relieve human efforts, we propose that MLLMs should achieve three important and distinct abilities: perception on low-level visual attributes, language description on low-level visual information, as well as IQA.
+- Submit your model at [our project page](https://github.com/VQAssessment/Q-Bench/) to compete with existing ones!
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='https://github.com/VQAssessment/MaxVQA/raw/master/figs/maxwell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Towards Explainable Video Quality Assessment: A Database and a Language-Prompted Approach](https://github.com/VQAssessment/MaxVQA)
+  
+Haoning Wu\*, **Erli Zhang**\*, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
+
+[**GitHub**](https://github.com/VQAssessment/MaxVQA) [![](https://img.shields.io/github/stars/VQAssessment/MaxVQA)](https://github.com/VQAssessment/MaxVQA),  [**ArXiv**](https://arxiv.org/abs/2305.12726)
+  
+- We collect over two million human opinions on 13 dimensions of quality-related factors to establish the multi-dimensional Maxwell database. Furthermore, we propose the MaxVQA, a language-prompted VQA approach that modifies CLIP to better capture important quality issues as observed in our analyses. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='https://github.com/teowu/teowu.github.io/raw/main/images/dover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives](https://github.com/VQAssessment/DOVER)
+  
+Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
+
+[**GitHub**](https://github.com/VQAssessment/DOVER) [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER),  [**ArXiv**](https://arxiv.org/abs/2211.04894v3)
+  
+- The proposed Disentangled Objective Video Quality Evaluator (**DOVER**) reached state-of-the-art performance (0.91 SRCC for KoNViD-1k, 0.89 SRCC for LSVQ, 0.89 SRCC for YouTube-UGC) in the UGC-VQA problem. More importantly, our subjective studies construct the first aesthetic and technical VQA database, the DIVIDE-3k, proving that UGC-VQA is jointly affected by the two perspectives.
+</div>
+</div>
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.08.10 - 2024.05.30 (expected)*, Undergraduate Student, Major in Computer Science, Nanyang Technological University
+  - Specialization: Artificial Intelligence & Data Science
+  - final year project supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)
+  - Research Topic: Explainable Visual Quality Assessments.
+- *2021.08.10 - 2021.12.01*, SUSEP Exchange Student, National University of Singapore
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖 Honors and Awards
+- *2022.7* CFAR Internship Award for Research Excellence
+- *2019.6* NTU Science and Engineering Undergraduate Scholarship 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships and Projects
+- *July 2023-Present*, [**Center for Cognition, Vision, and Learning, Johns Hopkins University**](https://ccvl.jhu.edu/), Research Student
+  - Supervisor: Prof Alan L. Yuille
+  - Evaluate how the robustness of a sequential learning model changes with every new task relative to jointly trained neural models
+  - Adapt current robustness methods to continual learning setups and analysed whether they improve model robustness when learning continually
+- *May 2023-July 2023*, [**Sunstella Foundation**](https://sites.google.com/view/sunstella-foundation/home), Summer Research Scholar
+  - Supervisor: Prof Jimeng Sun
+  - Worked on MedBind, an AI model combining multiple modalities to generate synthetic patient records to enhance clinical research
+  - Contributed to PyHealth, a comprehensive deep learning toolkit for supporting clinical predictive modelling
+  - Adapt current robustness methods to continual learning setups and analysed whether they improve model robustness when learning continually
+- *July 2022-May 2023*, [**Institute for Infocomm Research**](https://www.a-star.edu.sg/i2r/research-capabilities/healthcare-medtech), AI Research Engineer
+  - Supervisor: Dr Huang Weimin
+  - Conducted insightful research into the field of medical image processing, specifically in mammogram analysis
+  - Developed a model using weakly semi-supervised learning and transformers to predict breast cancer risk at multiple time points based on traditional mammograms and common risk factors and clinical data
+- *July 2021-May 2022*, [**Undergraduate Research Experience on Campus, Nanyang Technological University**](https://www.ntu.edu.sg/education/undergraduate-research-experience-on-campus-(ureca)), URECA Research Student
+  - Supervisor: Prof Lin Weisi
+  - Identified common factors that lead to bias in facial analysis, e.g., occlusions, pose variation, expressions, etc.
+  - Evaluated current state-of-the-art face recognition methods on various datasets with bias
+  - Compared common feature detection and description techniques in occluded datasets 
+
