@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhang Erli"
-description              : "Zhang Erli's homepage. "
+title                    : "Erli Zhang"
+description              : "Erli Zhang's homepage. "
 repository               : "zhangerlicarl/zhangerlicarl.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhang Erli"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Erli Zhang"
+  avatar           : "images/profile.png"
   bio              : "Final Year Computer Science Student in Nanyang Technological University, applying for PhD programs starting in 2024 Fall."
   location         : "Singapore, Singapore"
   employer         :
