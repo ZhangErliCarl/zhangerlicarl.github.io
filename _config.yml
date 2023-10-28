@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Erli Zhang"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpeg"
   bio              : "Final Year Computer Science Student in Nanyang Technological University, applying for PhD programs starting in 2024 Fall."
   location         : "Singapore, Singapore"
   employer         :
