@@ -75,11 +75,6 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
 </div>
 </div>
 
-<span class='anchor' id='-honors-and-awards'></span>
-# 🎖 Honors and Awards
-- *2022.7* CFAR Internship Award for Research Excellence
-- *2019.6* NTU Science and Engineering Undergraduate Scholarship
-
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2020.08.10 - 2024.05.30 (expected)*, Undergraduate Student, Major in Computer Science, Nanyang Technological University
@@ -87,6 +82,11 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
   - final year project supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)
   - Research Topic: Explainable Visual Quality Assessments.
 - *2021.08.10 - 2021.12.01*, SUSEP Exchange Student, National University of Singapore
+
+<span class='anchor' id='-honors-and-awards'></span>
+# 🎖 Honors and Awards
+- *2022.7* CFAR Internship Award for Research Excellence
+- *2019.6* NTU Science and Engineering Undergraduate Scholarship
 
 <span class='anchor' id='-internships-and-projects'></span>
 # 💻 Internships and Projects
