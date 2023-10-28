@@ -28,10 +28,12 @@ Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological Un
 - **Email:** zhangerlicarl@gmail.com or ezhang005@e.ntu.edu.sg
 - **Twitter:** [@zhang_erli](https://twitter.com/zhang_erli)
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 (CCF-A)!
 - *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023 (CCF-A)!
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
@@ -73,7 +75,7 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
 </div>
 </div>
 
-
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2020.08.10 - 2024.05.30 (expected)*, Undergraduate Student, Major in Computer Science, Nanyang Technological University
   - Specialization: Artificial Intelligence & Data Science
@@ -81,10 +83,12 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
   - Research Topic: Explainable Visual Quality Assessments.
 - *2021.08.10 - 2021.12.01*, SUSEP Exchange Student, National University of Singapore
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2022.7* CFAR Internship Award for Research Excellence
 - *2019.6* NTU Science and Engineering Undergraduate Scholarship 
 
+<span class='anchor' id='-internships-and-projects'></span>
 # 💻 Internships and Projects
 - *July 2023-Present*, [**Center for Cognition, Vision, and Learning, Johns Hopkins University**](https://ccvl.jhu.edu/), Research Student
   - Supervisor: Prof Alan L. Yuille
