@@ -93,18 +93,17 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
 - *July 2023-Present*, [**Center for Cognition, Vision, and Learning, Johns Hopkins University**](https://ccvl.jhu.edu/), Research Student
   - Supervisor: Prof Alan L. Yuille
   - Evaluate how the robustness of a sequential learning model changes with every new task relative to jointly trained neural models
-  - Adapt current robustness methods to continual learning setups and analysed whether they improve model robustness when learning continually
+  - Adapt current robustness methods to continual learning setups and analyse whether they improve model robustness when learning continually
 - *May 2023-July 2023*, [**Sunstella Foundation**](https://sites.google.com/view/sunstella-foundation/home), Summer Research Scholar
   - Supervisor: Prof Jimeng Sun
   - Worked on MedBind, an AI model combining multiple modalities to generate synthetic patient records to enhance clinical research
   - Contributed to PyHealth, a comprehensive deep learning toolkit for supporting clinical predictive modelling
-  - Adapt current robustness methods to continual learning setups and analysed whether they improve model robustness when learning continually
 - *July 2022-May 2023*, [**Institute for Infocomm Research**](https://www.a-star.edu.sg/i2r/research-capabilities/healthcare-medtech), AI Research Engineer
-  - Supervisor: Dr Huang Weimin
+  - Supervisor: Dr Weimin Huang
   - Conducted insightful research into the field of medical image processing, specifically in mammogram analysis
   - Developed a model using weakly semi-supervised learning and transformers to predict breast cancer risk at multiple time points based on traditional mammograms and common risk factors and clinical data
 - *July 2021-May 2022*, [**Undergraduate Research Experience on Campus, Nanyang Technological University**](https://www.ntu.edu.sg/education/undergraduate-research-experience-on-campus-(ureca)), URECA Research Student
-  - Supervisor: Prof Lin Weisi
+  - Supervisor: Prof Weisi Lin
   - Identified common factors that lead to bias in facial analysis, e.g., occlusions, pose variation, expressions, etc.
   - Evaluated current state-of-the-art face recognition methods on various datasets with bias
   - Compared common feature detection and description techniques in occluded datasets 
