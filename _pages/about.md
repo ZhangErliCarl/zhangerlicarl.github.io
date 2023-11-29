@@ -36,7 +36,7 @@ Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological Un
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-Instruct/blob/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-Instruct/raw/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
