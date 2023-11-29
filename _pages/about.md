@@ -36,6 +36,19 @@ Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological Un
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-Instruct/blob/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
+
+Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Geng Xue, Wenxiu Sun, Qiong Yan, Weisi Lin
+
+- We construct the Q-Instruct, the first instruction tuning dataset that focuses on human queries related to low-level vision.
+- We have now supported to run the Q-Instruct demos on your own device! See [local demos](https://github.com/Q-Future/Q-Instruct/tree/main/local_demos) for instructions. (Now support mplug_owl-2 only)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
