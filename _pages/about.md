@@ -30,8 +30,9 @@ Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological Un
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 (CCF-A)!
-- *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023 (CCF-A)!
+- *2024.01.16*: &nbsp;🎉🎉 Q-Bench get accepted by ICLR2024 (spotlight)!
+- *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 (oral)!
+- *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023!
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
