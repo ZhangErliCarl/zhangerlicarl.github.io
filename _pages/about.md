@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About me
-Hi, I am Erli Zhang. I am a first year PhD student at National University of Singapore 🇸🇬, supervised by Asst Prof [Jin Yueming](https://cde.nus.edu.sg/ece/staff/jin-yueming/). My current research interests include **AI in Healthcare**, **Medical/Surgical Video Generation** and **Multimodal Large Language Model**.
+Hi, I am Erli Zhang. I am a first year PhD student at National University of Singapore 🇸🇬, supervised by Asst Prof [Jin Yueming](https://cde.nus.edu.sg/ece/staff/jin-yueming/). My current research interests include **AI in Healthcare**, **Medical/Surgical Video Generation** and **Surgical Foundation Model**.
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
@@ -114,9 +114,12 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2020.08.10 - 2024.05.30 (expected)*, Undergraduate Student, Major in Computer Science, Nanyang Technological University
+- *2024.08.01 - current*, PhD Student, Major in Biomedical Engineering, National University of Singapore
+  - Supervisor: [Asst Prof Jin Yueming](https://cde.nus.edu.sg/ece/staff/jin-yueming/)
+  - Research Focus: AI in Healthcare, Medical/Surgical Video Generation and Surgical Foundation Models.
+- *2020.08.10 - 2024.05.30*, Undergraduate Student, Major in Computer Science, Nanyang Technological University
   - Specialization: Artificial Intelligence & Data Science
-  - final year project supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)
+  - Final year project supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)
   - Research Topic: Explainable Visual Quality Assessments.
 - *2021.08.10 - 2021.12.01*, SUSEP Exchange Student, National University of Singapore
 
