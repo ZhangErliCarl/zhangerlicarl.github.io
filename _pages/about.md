@@ -40,7 +40,7 @@ Hi, I am Erli Zhang. I am a first year PhD student at National University of Sin
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='https://github.com/ZhangErliCarl/Surgical-SAM-2/blob/main/assets/architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='https://github.com/ZhangErliCarl/Surgical-SAM-2/raw/main/assets/architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning](https://github.com/jinlab-imvr/Surgical-SAM-2)
