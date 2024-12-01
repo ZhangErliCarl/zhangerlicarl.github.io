@@ -40,14 +40,30 @@ Hi, I am Erli Zhang. I am a first year PhD student at National University of Sin
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='https://github.com/jinlab-imvr/Surgical-SAM-2/blob/main/assets/architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning](https://github.com/jinlab-imvr/Surgical-SAM-2)
+
+Haofeng Liu\*, **Erli Zhang**\*, Junde Wu\*,Mingxuan Hong, Yueming Jin
+
+[**GitHub**](https://github.com/jinlab-imvr/Surgical-SAM-2) [![](https://img.shields.io/github/stars/jinlab-imvr/Surgical-SAM-2)](https://github.com/jinlab-imvr/Surgical-SAM-2),  [**Paper**](https://arxiv.org/pdf/2408.07931)
+
+- We introduce Surgical SAM 2 (SurgSAM-2), an innovative model that leverages the power of the Segment Anything Model 2 (SAM2), integrating it with an efficient frame pruning mechanism for real-time surgical video segmentation. 
+- SurgSAM-2 dramatically reduces memory usage and computational cost of SAM2 for real-time clinical application, achieving superior performance with 3× FPS (86 FPS), and making real-time surgical segmentation in resource-constrained environments a feasible reality.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='https://github.com/Q-Future/Q-Instruct/raw/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models]
+[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct)
+
+Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Geng Xue, Wenxiu Sun, Qiong Yan, Weisi Lin
 
 [**GitHub**](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct),  [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Q-Instruct_Improving_Low-level_Visual_Abilities_for_Multi-modality_Foundation_Models_CVPR_2024_paper.pdf)
 
-Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Geng Xue, Wenxiu Sun, Qiong Yan, Weisi Lin
 
 - We construct the Q-Instruct, the first instruction tuning dataset that focuses on human queries related to low-level vision.
 - We have now supported to run the Q-Instruct demos on your own device! See [local demos](https://github.com/Q-Future/Q-Instruct/tree/main/local_demos) for instructions. (Now support mplug_owl-2 only)
@@ -58,9 +74,11 @@ Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Anna
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/VQAssessment/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
-
+[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/VQAssessment/Q-Bench) 
 Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
+
+[**GitHub**](https://github.com/VQAssessment/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench), [**Paper**](https://openreview.net/pdf?id=0V5TVt9bk0)
+
 
 - We construct the Q-Bench, a benchmark to examine the progress of MLLMs on low-level visual abilities. Anticipating these large foundation models to be general-purpose intelligence that can ultimately relieve human efforts, we propose that MLLMs should achieve three important and distinct abilities: perception on low-level visual attributes, language description on low-level visual information, as well as IQA.
 - Submit your model at [our project page](https://github.com/VQAssessment/Q-Bench/) to compete with existing ones!
@@ -75,7 +93,7 @@ Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Anna
   
 Haoning Wu\*, **Erli Zhang**\*, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
 
-[**GitHub**](https://github.com/VQAssessment/MaxVQA) [![](https://img.shields.io/github/stars/VQAssessment/MaxVQA)](https://github.com/VQAssessment/MaxVQA),  [**ArXiv**](https://arxiv.org/abs/2305.12726)
+[**GitHub**](https://github.com/VQAssessment/MaxVQA) [![](https://img.shields.io/github/stars/VQAssessment/MaxVQA)](https://github.com/VQAssessment/MaxVQA), [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3581783.3611737)
   
 - We collect over two million human opinions on 13 dimensions of quality-related factors to establish the multi-dimensional Maxwell database. Furthermore, we propose the MaxVQA, a language-prompted VQA approach that modifies CLIP to better capture important quality issues as observed in our analyses. 
 </div>
@@ -88,7 +106,7 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wa
   
 Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
 
-[**GitHub**](https://github.com/VQAssessment/DOVER) [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER),  [**ArXiv**](https://arxiv.org/abs/2211.04894v3)
+[**GitHub**](https://github.com/VQAssessment/DOVER) [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER),  [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf)
   
 - The proposed Disentangled Objective Video Quality Evaluator (**DOVER**) reached state-of-the-art performance (0.91 SRCC for KoNViD-1k, 0.89 SRCC for LSVQ, 0.89 SRCC for YouTube-UGC) in the UGC-VQA problem. More importantly, our subjective studies construct the first aesthetic and technical VQA database, the DIVIDE-3k, proving that UGC-VQA is jointly affected by the two perspectives.
 </div>
@@ -126,4 +144,3 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
   - Identified common factors that lead to bias in facial analysis, e.g., occlusions, pose variation, expressions, etc.
   - Evaluated current state-of-the-art face recognition methods on various datasets with bias
   - Compared common feature detection and description techniques in occluded datasets 
-
