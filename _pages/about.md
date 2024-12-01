@@ -18,18 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About me
-Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests include **Multimodal Large Language Model**, **Visual Quality Assessment** and **AI in Healthcare**. I aspire to contribute significantly to the academic community, looking forward to joining a PhD program where I can further explore this field.
+Hi, I am Erli Zhang. I am a first year PhD student at National University of Singapore 🇸🇬, supervised by Asst Prof [Jin Yueming](https://cde.nus.edu.sg/ece/staff/jin-yueming/). My current research interests include **AI in Healthcare**, **Medical/Surgical Video Generation** and **Multimodal Large Language Model**.
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zhang-erli/)
 
 # 📬 Contact Me
-- **Email:** zhangerlicarl@gmail.com or ezhang005@e.ntu.edu.sg
+- **Email:** zhangerlicarl@gmail.com or erli.z@nus.edu.sg
 - **Twitter:** [@zhang_erli](https://twitter.com/zhang_erli)
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2024.10.12*: &nbsp;🎉🎉 SurgSAM2 get accpepted by AIM-FM Workshop @ NeurIPS'24!
+- *2024.05.22*: &nbsp;🎉🎉 Received PhD offer from National University of Singapore, Department of Biomedical Engineering
+- *2024.02.27*: &nbsp;🎉🎉 Q-Instruct get accepted by CVPR2024!
 - *2024.01.16*: &nbsp;🎉🎉 Q-Bench get accepted by ICLR2024 (spotlight)!
 - *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 (oral)!
 - *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023!
@@ -37,10 +40,12 @@ Hi, I am Erli Zhang. I am a final-year undergraduate at Nanyang Technological Un
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-Instruct/raw/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='https://github.com/Q-Future/Q-Instruct/raw/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
+[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models]
+
+[**GitHub**](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct),  [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Q-Instruct_Improving_Low-level_Visual_Abilities_for_Multi-modality_Foundation_Models_CVPR_2024_paper.pdf)
 
 Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Geng Xue, Wenxiu Sun, Qiong Yan, Weisi Lin
 
@@ -50,7 +55,7 @@ Haoning Wu\*, Zicheng Zhang\*, **Erli Zhang**\*, Chaofeng Chen, Liang Liao, Anna
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/VQAssessment/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
