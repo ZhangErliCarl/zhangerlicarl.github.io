@@ -20,7 +20,7 @@ redirect_from:
 # 👤 About me
 Hi, I am Erli Zhang. I am a first year PhD student at National University of Singapore 🇸🇬, supervised by Asst Prof [Jin Yueming](https://cde.nus.edu.sg/ece/staff/jin-yueming/). My current research interests include **AI in Healthcare**, **Medical/Surgical Video Generation** and **Surgical Foundation Model**.
 
-- **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
+- **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/main/Zhang%20Erli%20CV%202024%20Dec.pdf)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zhang-erli/)
 
