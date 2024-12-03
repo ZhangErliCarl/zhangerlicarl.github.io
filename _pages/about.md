@@ -24,10 +24,6 @@ Hi, I am Erli Zhang. I am a first year PhD student at National University of Sin
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zhang-erli/)
 
-# 📬 Contact Me
-- **Email:** zhangerlicarl@gmail.com or erli.z@nus.edu.sg
-- **Twitter:** [@zhang_erli](https://twitter.com/zhang_erli)
-
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2024.10.12*: &nbsp;🎉🎉 SurgSAM2 get accpepted by AIM-FM Workshop @ NeurIPS'24!
@@ -147,3 +143,8 @@ Haoning Wu\*, **Erli Zhang**\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan 
   - Identified common factors that lead to bias in facial analysis, e.g., occlusions, pose variation, expressions, etc.
   - Evaluated current state-of-the-art face recognition methods on various datasets with bias
   - Compared common feature detection and description techniques in occluded datasets 
+
+<span class='anchor' id='contact-me'></span>
+# 📬 Contact Me
+- **Email:** zhangerlicarl@gmail.com or erli.z@nus.edu.sg
+- **Twitter:** [@zhang_erli](https://twitter.com/zhang_erli)
